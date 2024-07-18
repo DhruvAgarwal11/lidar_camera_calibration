@@ -1,0 +1,41 @@
+<?xml version="1.0"?>
+<package format="3">
+    
+  <name>lidar_camera_calibration</name>
+  <version>1.0.0</version>
+  <description>The lidar_camera_calibration package</description>
+
+  <!-- One maintainer tag required, multiple allowed, one person per tag -->
+  <maintainer email="heethesh@cmu.edu">Heethesh Vhavle</maintainer>
+
+  <!-- One license tag required, multiple allowed, one license per tag -->
+  <license>BSD</license>
+
+  <!-- Url tags are optional, but multiple are allowed, one per tag -->
+  <url type="website">http://github.com/heethesh/lidar_camera_calibration</url>
+
+  <!-- Author tags are optional, multiple are allowed, one per tag -->
+  <author email="heethesh@cmu.edu">Heethesh Vhavle</author>
+
+  <!-- The *depend tags are used to specify dependencies -->
+  <!-- Dependencies can be ament packages or system dependencies -->
+  <buildtool_depend>ament_cmake</buildtool_depend>
+  <build_depend>rclcpp</build_depend>
+  <build_depend>sensor_msgs</build_depend>
+  <build_depend>std_msgs</build_depend>
+  <build_depend>tf2_ros</build_depend>
+  <build_depend>cv_bridge</build_depend>
+  <build_depend>image_geometry</build_depend>
+  <exec_depend>rclcpp</exec_depend>
+  <exec_depend>sensor_msgs</exec_depend>
+  <exec_depend>std_msgs</exec_depend>
+  <exec_depend>tf2_ros</exec_depend>
+  <exec_depend>cv_bridge</exec_depend>
+  <exec_depend>image_geometry</exec_depend>
+
+  <!-- Export information -->
+  <export>
+    <build_type>ament_cmake</build_type>
+  </export>
+</package>
+

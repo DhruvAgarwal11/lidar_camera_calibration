@@ -1,0 +1,50 @@
+-- Found ament_cmake: 1.3.9 (/opt/ros/humble/share/ament_cmake/cmake)
+-- Found rclcpp: 16.0.9 (/opt/ros/humble/share/rclcpp/cmake)
+-- Found rosidl_generator_c: 3.1.5 (/opt/ros/humble/share/rosidl_generator_c/cmake)
+-- Found rosidl_adapter: 3.1.5 (/opt/ros/humble/share/rosidl_adapter/cmake)
+-- Found rosidl_generator_cpp: 3.1.5 (/opt/ros/humble/share/rosidl_generator_cpp/cmake)
+-- Using all available rosidl_typesupport_c: rosidl_typesupport_fastrtps_c;rosidl_typesupport_introspection_c
+-- Using all available rosidl_typesupport_cpp: rosidl_typesupport_fastrtps_cpp;rosidl_typesupport_introspection_cpp
+-- Found rmw_implementation_cmake: 6.1.2 (/opt/ros/humble/share/rmw_implementation_cmake/cmake)
+-- Found rmw_fastrtps_cpp: 6.2.6 (/opt/ros/humble/share/rmw_fastrtps_cpp/cmake)
+-- Using RMW implementation 'rmw_fastrtps_cpp' as default
+-- Found sensor_msgs: 4.2.4 (/opt/ros/humble/share/sensor_msgs/cmake)
+-- Found image_geometry: 3.2.1 (/opt/ros/humble/share/image_geometry/cmake)
+-- Found cv_bridge: 3.2.1 (/opt/ros/humble/share/cv_bridge/cmake)
+-- Configuring done
+-- Generating done
+[33mCMake Warning:
+  Manually-specified variables were not used by the project:
+
+    ENABLE_TRANSFORM
+
+[0m
+-- Build files have been written to: /home/dhruvagarwal/Desktop/ros2_ws/build/lidar_camera_calibration
+-- Install configuration: ""
+-- Up-to-date: /home/dhruvagarwal/Desktop/ros2_ws/install/lidar_camera_calibration/share/lidar_camera_calibration/launch
+-- Up-to-date: /home/dhruvagarwal/Desktop/ros2_ws/install/lidar_camera_calibration/share/lidar_camera_calibration/launch/play_rosbag.launch.py
+-- Up-to-date: /home/dhruvagarwal/Desktop/ros2_ws/install/lidar_camera_calibration/share/lidar_camera_calibration/launch/display_camera_lidar_calibration.launch.py
+-- Up-to-date: /home/dhruvagarwal/Desktop/ros2_ws/install/lidar_camera_calibration/share/lidar_camera_calibration/launch/display_camera_calibration.launch
+-- Up-to-date: /home/dhruvagarwal/Desktop/ros2_ws/install/lidar_camera_calibration/share/lidar_camera_calibration/launch/display_camera_lidar_calibration.launch
+-- Up-to-date: /home/dhruvagarwal/Desktop/ros2_ws/install/lidar_camera_calibration/share/lidar_camera_calibration/launch/__pycache__
+-- Up-to-date: /home/dhruvagarwal/Desktop/ros2_ws/install/lidar_camera_calibration/share/lidar_camera_calibration/launch/__pycache__/play_rosbag.launch.cpython-310.pyc
+-- Up-to-date: /home/dhruvagarwal/Desktop/ros2_ws/install/lidar_camera_calibration/share/lidar_camera_calibration/launch/camera_calibration.launch.py
+-- Up-to-date: /home/dhruvagarwal/Desktop/ros2_ws/install/lidar_camera_calibration/share/lidar_camera_calibration/launch/display_camera_calibration.launch.py
+-- Up-to-date: /home/dhruvagarwal/Desktop/ros2_ws/install/lidar_camera_calibration/share/lidar_camera_calibration/launch/camera_calibration.launch
+-- Up-to-date: /home/dhruvagarwal/Desktop/ros2_ws/install/lidar_camera_calibration/share/lidar_camera_calibration/launch/play_rosbag.launch
+-- Installing: /home/dhruvagarwal/Desktop/ros2_ws/install/lidar_camera_calibration/lib/lidar_camera_calibration/calibrate_camera_lidar.py
+-- Up-to-date: /home/dhruvagarwal/Desktop/ros2_ws/install/lidar_camera_calibration/share/ament_index/resource_index/package_run_dependencies/lidar_camera_calibration
+-- Up-to-date: /home/dhruvagarwal/Desktop/ros2_ws/install/lidar_camera_calibration/share/ament_index/resource_index/parent_prefix_path/lidar_camera_calibration
+-- Up-to-date: /home/dhruvagarwal/Desktop/ros2_ws/install/lidar_camera_calibration/share/lidar_camera_calibration/environment/ament_prefix_path.sh
+-- Installing: /home/dhruvagarwal/Desktop/ros2_ws/install/lidar_camera_calibration/share/lidar_camera_calibration/environment/ament_prefix_path.dsv
+-- Up-to-date: /home/dhruvagarwal/Desktop/ros2_ws/install/lidar_camera_calibration/share/lidar_camera_calibration/environment/path.sh
+-- Installing: /home/dhruvagarwal/Desktop/ros2_ws/install/lidar_camera_calibration/share/lidar_camera_calibration/environment/path.dsv
+-- Up-to-date: /home/dhruvagarwal/Desktop/ros2_ws/install/lidar_camera_calibration/share/lidar_camera_calibration/local_setup.bash
+-- Up-to-date: /home/dhruvagarwal/Desktop/ros2_ws/install/lidar_camera_calibration/share/lidar_camera_calibration/local_setup.sh
+-- Up-to-date: /home/dhruvagarwal/Desktop/ros2_ws/install/lidar_camera_calibration/share/lidar_camera_calibration/local_setup.zsh
+-- Installing: /home/dhruvagarwal/Desktop/ros2_ws/install/lidar_camera_calibration/share/lidar_camera_calibration/local_setup.dsv
+-- Installing: /home/dhruvagarwal/Desktop/ros2_ws/install/lidar_camera_calibration/share/lidar_camera_calibration/package.dsv
+-- Up-to-date: /home/dhruvagarwal/Desktop/ros2_ws/install/lidar_camera_calibration/share/ament_index/resource_index/packages/lidar_camera_calibration
+-- Up-to-date: /home/dhruvagarwal/Desktop/ros2_ws/install/lidar_camera_calibration/share/lidar_camera_calibration/cmake/lidar_camera_calibrationConfig.cmake
+-- Up-to-date: /home/dhruvagarwal/Desktop/ros2_ws/install/lidar_camera_calibration/share/lidar_camera_calibration/cmake/lidar_camera_calibrationConfig-version.cmake
+-- Up-to-date: /home/dhruvagarwal/Desktop/ros2_ws/install/lidar_camera_calibration/share/lidar_camera_calibration/package.xml
